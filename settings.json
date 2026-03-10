@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "jackBOT",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "JACKSHOUSE",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "monkeysJE.aternos.me",
     "port": 28266,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
